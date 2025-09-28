@@ -2,7 +2,6 @@
 
 A beautiful and customizable digital clock application built with Python and PyQt5.
 
-![Digital Clock Screenshot]([Screenshot.png](https://github.com/om2933/Digital-Clock/blob/main/Screenshot.png?raw=true)) 
 
 ## Features
 
